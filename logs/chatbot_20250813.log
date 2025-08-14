@@ -1,0 +1,118 @@
+2025-08-13 13:01:06,691 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:01:06,693 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:01:06,693 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:01:06,695 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:01:06,711 - sundew_chatbot - INFO - New session started: sess_20250813_130106_5b64c5
+2025-08-13 13:01:22,787 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-13 13:01:22,788 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-13 13:01:42,313 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-13 13:01:42,313 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-13 13:03:02,224 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:03:02,235 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:03:02,263 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:03:02,284 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:03:09,398 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:03:09,414 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:03:09,490 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:03:09,495 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:03:16,475 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:03:16,497 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:03:16,546 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:03:16,556 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:03:19,271 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:03:19,292 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:03:19,323 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:03:19,339 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:06:16,479 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:06:16,480 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:06:16,481 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:06:16,482 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:06:16,486 - sundew_chatbot - INFO - New session started: sess_20250813_130616_8d00f1
+2025-08-13 13:06:23,591 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-13 13:06:23,592 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-13 13:06:31,329 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-13 13:06:31,331 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-13 13:06:46,636 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:06:46,642 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:06:46,643 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:06:46,649 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:06:47,171 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:06:47,172 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:06:47,174 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:06:47,176 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:06:52,732 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:06:52,755 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:06:52,757 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:06:52,759 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:06:53,188 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:06:53,191 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:06:53,192 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:06:53,192 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:07:12,917 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:07:12,941 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:07:12,945 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:07:12,946 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:21,981 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:21,991 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:21,993 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:21,994 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:24,487 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:24,497 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:24,613 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:24,628 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:28,492 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:28,497 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:28,505 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:28,545 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:28,928 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:28,929 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:28,929 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:28,929 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:35,849 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:35,857 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:35,870 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:35,878 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:36,444 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:36,455 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:36,460 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:36,469 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:40,242 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:40,257 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:40,263 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:40,264 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:40,769 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:40,777 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:40,783 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:40,791 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:48,327 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:48,353 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:48,384 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:48,395 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:48,849 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:48,853 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:48,856 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:48,861 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:50,773 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:50,783 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:50,794 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:50,795 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:51,339 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:51,343 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:51,350 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:51,355 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:55,887 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:55,895 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:55,909 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:55,935 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:16:56,401 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:16:56,405 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:16:56,408 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:16:56,419 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:17:06,724 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:17:06,724 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:17:06,725 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:17:06,726 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
+2025-08-13 13:23:23,279 - sundew_chatbot - INFO - Logging system initialized
+2025-08-13 13:23:23,286 - sundew_chatbot - INFO - Log file: logs/chatbot_20250813.log
+2025-08-13 13:23:23,287 - sundew_chatbot - INFO - Log level: INFO
+2025-08-13 13:23:23,287 - sundew_chatbot - INFO - Starting Sundew Solutions Chatbot
